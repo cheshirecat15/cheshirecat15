@@ -1,8 +1,12 @@
 
-Hello, I'm Rijuta. I hate introductions.
+Hello, I'm Rijuta. I hate introductions.  
+
 I like learning tho
+***
 it's cool
+___
 help
+---
 <!--
 
 ## Hi there 👋
