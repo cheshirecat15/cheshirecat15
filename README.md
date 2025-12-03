@@ -1,6 +1,11 @@
-## Hi there 👋
 
+Hello, I'm Rijuta. I hate introductions.
+I like learning tho
+it's cool
+help
 <!--
+
+## Hi there 👋
 **cheshirecat15/cheshirecat15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
