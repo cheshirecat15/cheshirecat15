@@ -1,9 +1,11 @@
 
 Hello, I'm Rijuta.  
-I hate introductions.  
-I like learning tho  
-it's cool  
-help  
+
+Currently, I'm learning VAPT. Doing TryHackMe "Jr. Penetration Tester" path.
+I am also trying to build homelabs where I'll attack and defend both.
+I love to keep learning and growing with the curious mind I have.
+Thank you for reading!
+
 <!--
 
 ## Hi there 👋
