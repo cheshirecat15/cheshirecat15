@@ -1,11 +1,17 @@
+# Hi, I'm Rijuta! 👋
 
-Hello, I'm Rijuta.  
+### I'm a Computer Science undergraduate specializing in Cyber Security.
 
-Currently, I'm learning VAPT. Doing TryHackMe "Jr. Penetration Tester" path.
-I am also trying to build homelabs where I'll attack and defend both.
-I love to keep learning and growing with the curious mind I have.
-Thank you for reading!
+- CompTIA Security+ certified
+- Exploring VAPT through hands-on labs and TryHackMe
+- Building a home lab with Wazuh to learn security monitoring and detection
+- Working with Python, Java, Linux, Wireshark, Nmap, and Burp Suite
 
+### Technical Interests
+Security Operations (SOC) · VAPT · Digital Forensics & Incident Response (DFIR)
+
+### Let's Connect
+[LinkedIn](https://www.linkedin.com/in/rijuta-ghosh/) · [Email](mailto:rijuta.titir@gmail.com)
 <!--
 
 ## Hi there 👋
